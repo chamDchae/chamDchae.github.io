@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : " en-US "
-title                    : "참D's 데이터"
+locale                   : "en-US"
+title                    : "Data_Study_With_chamD"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Data.참D"
+name                     : "참D"
 description              : "경영학을 전공했고 데이터에 관심이 많아 천천히 배워보고 있습니다."
 url                      : "https://chamDchae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -283,7 +283,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date : true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      sidebar_main: true
