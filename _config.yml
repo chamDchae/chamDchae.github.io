@@ -8,7 +8,7 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+# https://mmistakes.github.io/minimal-mistakes/docs/blog/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:byungy7792@gmail.com"
+      # url: "mailto:byungy7792@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
