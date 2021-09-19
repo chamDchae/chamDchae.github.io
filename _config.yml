@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko_KR.UTF-8"
-title                    : "Study python with data 왜 안"
+title                    : "Study python with data"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "참D"
-description              : "경영학을 전공했고 데이터에 관심이 습니다."
+name                     : "병열"
+description              : "경영학을 전공했고 데이터에 관심이 많습니다."
 url                      : "https://chamdchae.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
