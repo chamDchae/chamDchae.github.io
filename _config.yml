@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data_Study_With_chamD"
+title                    : "Study python with data"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "참D"
-description              : "경영학을 전공합니다."
-url                      : "https://chamDchae.github.io"
+description              : "경영학을 전공했고 데이터에 관심이 만습니다."
+url                      : "https://chamdchae.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "참D"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "천천히 그리고 꾸준하게"
-  location         : "청주"
-  email            : "byungy7792@gmail.com
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -283,9 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      show_date : true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
-      sidebar_main: true
